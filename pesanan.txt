@@ -1,0 +1,35 @@
+{"Nama Pelanggan": "as", "orders": [], "total harga": 0}
+{"Nama Pelanggan": "as", "orders": [], "total harga": 0}
+{"Nama Pelanggan": "k", "orders": [], "total_harga": 0}
+{"Nama Pelanggan": "Fuad", "orders": [{"item": "Mie Ayam", "porsi": 3, "harga": 36000}, {"item": "Jus Melon", "porsi": 2, "harga": 20000}, {"item": "Es Teh", "porsi": 1, "harga": 5000}], "total_harga": 61000}
+{"Nama Pelanggan": "fuad", "orders": [{"item": "Mie Ayam", "porsi": 3, "harga": 36000}, {"item": "Jus Melon", "porsi": 2, "harga": 20000}, {"item": "Es Teh", "porsi": 1, "harga": 5000}], "total_harga": 61000}
+{"Nama Pelanggan": "fuad", "orders": [{"item": "Mie Ayam", "porsi": 3, "harga": 36000}, {"item": "Jus Melon", "porsi": 2, "harga": 20000}, {"item": "Es Teh", "porsi": 1, "harga": 5000}], "total_harga": 61000}
+{"Nama Pelanggan": "fuad", "orders": [{"item": "Nasi Goreng", "porsi": 2, "harga": 30000}, {"item": "Soto Ayam", "porsi": 1, "harga": 10000}, {"item": "Rendang", "porsi": 2, "harga": 50000}], "total_harga": 90000}
+{"Nama Pelanggan": "asd", "orders": [{"item": "Mie Ayam", "porsi": 1, "harga": 12000}, {"item": "Soto Ayam", "porsi": 1, "harga": 10000}, {"item": "Rendang", "porsi": 2, "harga": 50000}], "total_harga": 72000}
+{"Nama Pelanggan": "asf", "orders": [{"item": "Ayam Goreng", "porsi": 1, "harga": 20000}, {"item": "Rendang", "porsi": 3, "harga": 75000}, {"item": "Mie Ayam", "porsi": 1, "harga": 12000}], "total_harga": 107000}
+{"Nama Pelanggan": "asd", "orders": [{"item": "Mie Ayam", "porsi": 3, "harga": 36000}, {"item": "Ayam Goreng", "porsi": 3, "harga": 60000}, {"item": "Soto Ayam", "porsi": 5, "harga": 50000}], "total_harga": 146000}
+{"Nama Pelanggan": "asd", "orders": [{"item": "Mie Ayam", "porsi": 2, "harga": 24000}, {"item": "Ayam Goreng", "porsi": 3, "harga": 60000}], "total_harga": 84000}
+{"Nama Pelanggan": "asd", "orders": [{"item": "Mie Ayam", "porsi": 3, "harga": 36000}, {"item": "Ayam Goreng", "porsi": 4, "harga": 80000}], "total_harga": 116000}
+{"Nama Pelanggan": "asd", "orders": [{"item": "Mie Ayam", "porsi": 3, "harga": 36000}, {"item": "Soto Ayam", "porsi": 3, "harga": 30000}], "total_harga": 66000}
+{"Nama Pelanggan": "as", "orders": [{"item": "Mie Ayam", "porsi": 3, "harga": 36000}, {"item": "Soto Ayam", "porsi": 2, "harga": 20000}], "total_harga": 56000}
+{"Nama Pelanggan": "asd", "orders": [], "total_harga": 0}
+{"Nama Pelanggan": "asd", "orders": [], "total_harga": 0}
+{"Nama Pelanggan": "& C:/Users/Huawei/python.exe \"e:/python/PYTHON/New folder/kasir/kasir.py\"", "orders": [], "total_harga": 0}
+{"Nama Pelanggan": "asd", "orders": [], "total_harga": 0}
+{"Nama Pelanggan": "& C:/Users/Huawei/python.exe \"e:/python/PYTHON/New folder/kasir/kasir.py\"", "orders": [], "total_harga": 0}
+{"Nama Pelanggan": "& C:/Users/Huawei/python.exe \"e:/python/PYTHON/New folder/kasir/kasir.py\"", "orders": [], "total_harga": 0}
+{"Nama Pelanggan": "cv", "orders": [], "total_harga": 0}
+{"Nama Pelanggan": "b", "orders": [], "total_harga": 0}
+{"Nama Pelanggan": "fuad", "orders": [{"item": "Mie Ayam", "porsi": 1, "harga": 12000}, {"item": "Ayam Goreng", "porsi": 4, "harga": 80000}], "total_harga": 92000}
+{"Nama Pelanggan": "asd", "orders": [{"item": "Mie Ayam", "porsi": 3, "harga": 36000}, {"item": "Es Jeruk", "porsi": 9, "harga": 54000}], "total_harga": 90000}
+{"Nama Pelanggan": "fuad", "orders": [{"item": "Mie Ayam", "porsi": 3, "harga": 36000}, {"item": "Soto Ayam", "porsi": 1, "harga": 10000}], "total_harga": 46000}
+{"Nama Pelanggan": "fuad", "orders": [{"item": "Mie Ayam", "porsi": 1, "harga": 12000}, {"item": "Soto Ayam", "porsi": 9, "harga": 90000}, {"item": "Ayam Goreng", "porsi": 2, "harga": 40000}], "total_harga": 142000}
+{"Nama Pelanggan": "fuad", "orders": [{"item": "Ayam Goreng", "porsi": 4, "harga": 80000}, {"item": "Mie Ayam", "porsi": 3, "harga": 36000}], "total_harga": 116000}
+{"Nama Pelanggan": "asd", "orders": [{"item": "Mie Ayam", "porsi": 3, "harga": 36000}], "total_harga": 36000}
+{"Nama Pelanggan": "fuad", "orders": [{"item": "Mie Ayam", "porsi": 3, "harga": 36000}], "Total_harga": 36000, "Uang": 40000.0, "kembali": 4000.0}
+{"Nama Pelanggan": "fuad", "orders": [{"item": "Mie Ayam", "porsi": 3, "harga": 36000}], "Total_harga": 36000, "Uang": 40000.0, "kembali": 4000.0}
+{"Nama Pelanggan": "fuad", "orders": [{"item": "Mie Ayam", "porsi": 1, "harga": 12000}], "Total_harga": 12000, "Uang": 15000.0, "kembali": 3000.0}
+{"Nama Pelanggan": "fuad", "orders": [{"item": "Mie Ayam", "porsi": 4, "harga": 48000}, {"item": "Ayam Goreng", "porsi": 3, "harga": 60000}, {"item": "Nasi Goreng", "porsi": 2, "harga": 30000}, {"item": "Rendang", "porsi": 1, "harga": 25000}], "Total_harga": 163000, "Uang": 170000, "kembali": 7000}
+{"Nama Pelanggan": "fuad", "orders": [{"item": "Ayam Goreng", "porsi": 4, "harga": 80000}, {"item": "Nasi Goreng", "porsi": 3, "harga": 45000}, {"item": "Rendang", "porsi": 2, "harga": 50000}, {"item": "Ikan Nila", "porsi": 1, "harga": 20000}], "Total_harga": 195000, "Uang": 20000, "kembali": -175000}
+{"Nama Pelanggan": "fuad", "orders": [{"item": "Soto Ayam", "porsi": 3, "harga": 30000}, {"item": "Rendang", "porsi": 2, "harga": 50000}, {"item": "Cumi", "porsi": 1, "harga": 20000}], "Total_harga": 100000, "Uang": 10000, "kembali": -90000}
+{"Nama Pelanggan": "fuad", "orders": [{"item": "Lobster", "porsi": 3, "harga": 120000}, {"item": "Ikan Gurame", "porsi": 2, "harga": 50000}, {"item": "Ikan Nila", "porsi": 1, "harga": 20000}], "Total_harga": 190000, "Uang": 200000, "kembali": 10000}
